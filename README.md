@@ -1,4 +1,7 @@
 # Vue_兄弟组件传递bus
+
+简单的兄弟组件之间传递数据用bus，复杂的兄弟组件传递用vuex
+
 ```
 import Vue from 'vue';
 export default new Vue();
